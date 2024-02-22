@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laba27</string>
+    <string name="app_chosen_date_text">Выбранная дата: -</string>
+    <string name="app_chosen_time_text">Выбранное время: -</string>
+    <string name="app_welcome_text">Вы включили приложение</string>
+    <string name="app_farewell_text">Вы уверены, что хотите выключить приложение?</string>
+</resources>
